@@ -1,6 +1,6 @@
 # scss-fourseven
 
-This repo demonstrated (Issue #100)[https://github.com/fourseven/meteor-scss/issues/100] with the fourseven-scss meteor package on windows.
+This repo demonstrated [Issue #100](https://github.com/fourseven/meteor-scss/issues/100) with the fourseven-scss meteor package on windows.
 
 running this on windows lead to:
 
